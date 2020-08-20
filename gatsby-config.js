@@ -32,8 +32,8 @@ module.exports = {
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
         background_color: `#141821`,
+        crossOrigin: `use-credentials`,
         theme_color: `#f6ad55`,
-		crossOrigin: `use-credentials`,
         display: `standalone`,
         icons: [
           {
